@@ -1,6 +1,5 @@
 # Olympic-End-to-End-Data-Engineering
 
-A comprehensive ETL workflow that demonstrates how to ingest, process, transform, and (eventually) visualize data related to the 2021 Olympics using various Azure services.
 
 ---
 
