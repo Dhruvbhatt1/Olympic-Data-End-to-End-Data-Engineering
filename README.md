@@ -72,7 +72,7 @@ The **2021 Olympics** dataset comprises five CSV files:
 
 The chart below highlights the relationship between the number of athletes, number of coaches, and their respective ratios across different teams or events:
 
-![Coach-to-Athlete Ratios](./SQL%20script%201%20(1).jpeg)
+![Coach-to-Athlete Ratios](./visulization.jpeg)
 
 ---
 
