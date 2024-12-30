@@ -7,7 +7,7 @@
 1. [Dataset](#dataset)  
 2. [Azure Services Used](#azure-services-used)  
 3. [ETL Process](#etl-process)  
-4. [Future Enhancements](#future-enhancements)
+4. [Visualization](#future-enhancements)
 
 ---
 
