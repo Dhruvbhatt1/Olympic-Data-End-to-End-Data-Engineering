@@ -66,9 +66,9 @@ The **2021 Olympics** dataset comprises five CSV files:
    - The cleaned, structured data is exported to **Azure Synapse Analytics**.  
    - Tables are created in a Synapse SQL pool to enable efficient querying and analysis.
 
-4. **Visualization 
+4. **Visualization** 
 
-### 1. Analyze Coach-to-Athlete Ratios
+# Analyze Coach-to-Athlete Ratios
 
 The chart below highlights the relationship between the number of athletes, number of coaches, and their respective ratios across different teams or events:
 
